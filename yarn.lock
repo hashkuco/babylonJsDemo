@@ -1038,6 +1038,21 @@
     "@babel/helper-validator-identifier" "^7.22.5"
     "to-fast-properties" "^2.0.0"
 
+"@babylonjs/core@^6.0.0", "@babylonjs/core@^6.15.0":
+  "integrity" "sha512-eoeJ3RB6xYC63ZuGGuceF7rrVA1OFIlO3cvBvAxsoBIzxTSLxyhmG4wwktEvCAePxZ7W7CDYNtA061edGWhxUw=="
+  "resolved" "https://registry.npmmirror.com/@babylonjs/core/-/core-6.15.0.tgz"
+  "version" "6.15.0"
+
+"@babylonjs/gui@^6.15.0":
+  "integrity" "sha512-WkR/r8wLbKyzUuXUgcWVaTZO5drxQ8YjkstDRz/ZrhfOTIEFDpidd7onDhaQ9wmekQEpFHcKJejJ1/MLXYLwAg=="
+  "resolved" "https://registry.npmmirror.com/@babylonjs/gui/-/gui-6.15.0.tgz"
+  "version" "6.15.0"
+
+"@babylonjs/loaders@^6.15.0":
+  "integrity" "sha512-pE22KVLEWcsWPmiL+TFsNyqLTMGhnt/6oPDy3nWpMwHTfjeaoW9qTV7hFDwhXopzU1Ddp6c/DhzFZalgSvCvbg=="
+  "resolved" "https://registry.npmmirror.com/@babylonjs/loaders/-/loaders-6.15.0.tgz"
+  "version" "6.15.0"
+
 "@ctrl/tinycolor@^3.4.0", "@ctrl/tinycolor@^3.5.0":
   "integrity" "sha512-/Z3l6pXthq0JvMYdUFyX9j0MaCltlIn6mfh9jLyQwg5aPKxkyNa0PTHtU1AlFXLNk55ZuAeJRcpvq+tmLfKmaQ=="
   "resolved" "https://registry.npmmirror.com/@ctrl/tinycolor/-/tinycolor-3.6.0.tgz"
@@ -2177,6 +2192,11 @@
   "version" "0.5.2"
   dependencies:
     "@babel/helper-define-polyfill-provider" "^0.4.2"
+
+"babylonjs-gltf2interface@^6.0.0":
+  "integrity" "sha512-vLY4UvaH+g2AZDNfgIaEH5Naw3kriiv2ckM9OPMzJTAACK52X4v4oL1z3iRDntQrBC1IV4Jfns2YFyowVqloGw=="
+  "resolved" "https://registry.npmmirror.com/babylonjs-gltf2interface/-/babylonjs-gltf2interface-6.15.0.tgz"
+  "version" "6.15.0"
 
 "balanced-match@^1.0.0":
   "integrity" "sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw=="
