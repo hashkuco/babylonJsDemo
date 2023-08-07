@@ -94,7 +94,7 @@ onMounted(() => {
           console.log(container.meshes[i]);
           mesh = container.meshes[i];
         }
-        if (container.meshes[i].id == "水箱") {
+        if (container.meshes[i].id.contains("空气源热泵")) {
           actionMesh = container.meshes[i];
         }
         if (container.meshes[i].id == "柱体.037_primitive0") {
